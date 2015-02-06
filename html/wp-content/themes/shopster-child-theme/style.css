@@ -1,0 +1,10 @@
+/*
+Theme Name:     Shopster Child Theme
+Description:    Child theme for shopster
+Author:         vinylmeplease
+Template:       shopster
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../shopster/style.css");
